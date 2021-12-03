@@ -1,6 +1,6 @@
 NOTE AL PROGRAMMA FABULA
 =========================
-Michele Andreoli "m.andreoli@tin.it"
+
 
 Ricompilazione in Linux
 -------------------------
